@@ -1,9 +1,7 @@
-# Homework 3 Submission
+# Geo Quiz Android App 
 
-My submission for CPSC 411, Section 04, Homework 3
+From Xiaoqiao Zhang
 
-# My Information
+# App Information
 
-* Name: Xiaoqiao Zhang
-* CWID: 885865576
-* Email: Xiaoqiao.Zhang@csu.fullerton.edu
+
